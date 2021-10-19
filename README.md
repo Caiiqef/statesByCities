@@ -1,2 +1,3 @@
 # statesByCities
-Brazilian states ordered by number of cities.
+Brazilian states ordered by number of cities. 
+Repo for study only.
